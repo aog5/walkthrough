@@ -1,0 +1,17 @@
+ipython
+jupyter
+matplotlib
+seaborn
+numpy
+flask
+Flask-API
+flasgger
+requests
+pytest
+pytest-flask
+pytest-cov
+pylint
+pylint-flask
+sensible
+click
+fire
